@@ -1,6 +1,6 @@
 # Julliane Pamfilo — Software Engineer Portfolio
 
-Live Site: https://software-engineer-portfolio.vercel.app
+Live Site: [https://software-engineer-portfolio.vercel.app](https://software-engineer-portfolio-sable.vercel.app/)
 
 ![Portfolio Preview](public/assets/portfolio-preview.png)
 
