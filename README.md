@@ -2,7 +2,9 @@
 
 Live Site: [https://software-engineer-portfolio.vercel.app](https://software-engineer-portfolio-sable.vercel.app/)
 
-![Portfolio Preview](public/assets/portfolio-preview.png)
+<p align="center">
+  <img src="./public/assets/portfolio-preview.png" width="900"/>
+</p>
 
 This repository contains my personal developer portfolio showcasing full-stack systems, cloud infrastructure, AI workflows, and production-ready applications.
 
