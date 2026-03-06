@@ -1,6 +1,6 @@
 # Julliane Pamfilo – Software Engineer Portfolio 🚀
 
-[![Portfolio Preview](public/assets/thumbnail.png)](https://software-engineer-portfolio.vercel.app)
+[![Portfolio Preview](public/assets/portfolio-preview.png)](https://software-engineer-portfolio.vercel.app)
 
 This repository contains my personal developer portfolio showcasing full-stack systems, cloud infrastructure, AI workflows, and production-ready applications.
 
