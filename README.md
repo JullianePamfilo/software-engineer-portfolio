@@ -11,7 +11,7 @@ This repository contains my personal developer portfolio showcasing full-stack s
 The portfolio is built with **Next.js, TypeScript, and Tailwind CSS** and highlights projects, technical experience, and engineering capabilities.
 
 Live Site  
-https://software-engineer-portfolio.vercel.app
+https://www.jullianepamfilo.com/
 
 ---
 
